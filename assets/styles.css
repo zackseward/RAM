@@ -1,0 +1,48 @@
+body {
+  font-family: courier;
+  padding-top: 50px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.jumbotron {
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  /*background-image: url("../images/papers.jpg");
+  background-position: 0% 25%;*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.page-header {
+  text-align: center;
+}
+
+#story {
+  text-align: center;
+  font-size: 20px;
+  margin: 0 auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+
+
+.footer {
+  margin: 0;
+  height: 80px;
+  color: #EEEEEE;
+  font-size: 20px;
+  padding-top: 25px;
+  float: right;
+}
+
+.btn-lg {
+  width: 200px;
+  font-size: 24px;
+}
