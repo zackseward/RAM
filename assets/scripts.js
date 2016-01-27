@@ -4,7 +4,7 @@ $(document).ready(function() {
       hed: "Rizzo calls TV reporter crumb, creep, coward, lush",
       date: "Nov. 20, 1980",
       by: "Associated Press",
-      dek: "Why, the television reporter asked the former mayor, wouldn’t he answer his questions?",
+      dek: "Why, the television reporter asked the former mayor, wouldn't he answer his questions?",
       url: "https://news.google.com/newspapers?id=n6dRAAAAIBAJ&sjid=yG0DAAAAIBAJ&pg=5386%2C3420419"
     },
     {
@@ -46,7 +46,7 @@ $(document).ready(function() {
       hed: "Fat, Drunk and Endearing: A Look Back at the '93 Phillies Season",
       date: "March 27, 2012",
       by: "Philadelphia Magazine, Mike Bertha",
-      dek: "Even though Joe Carter dashed their hopes of a World Series victory some 20 years ago, Philly still loves the 1993 Phillies — and there’s a reason for that.",
+      dek: "Even though Joe Carter dashed their hopes of a World Series victory some 20 years ago, Philly still loves the 1993 Phillies — and there's a reason for that.",
       url: "http://www.phillymag.com/articles/fat-drunk-and-endearing-a-look-at-the-93-phillies-season/?all=1"
     },
     {
@@ -81,7 +81,7 @@ $(document).ready(function() {
       hed: "A Creative Renaissance in Philadelphia's Fishtown",
       date: "Oct. 9, 2013",
       by: "New York Times, Bonnie Tsui",
-      dek: "The scruffy neighborhood of Fishtown in Philadelphia is having a creative renaissance, coming on the heels of Stephen Starr and Joe Carroll’s recent opening of the barbecue restaurant Fette Sau.",
+      dek: "The scruffy neighborhood of Fishtown in Philadelphia is having a creative renaissance, coming on the heels of Stephen Starr and Joe Carroll's recent opening of the barbecue restaurant Fette Sau.",
       url: "http://www.nytimes.com/2013/10/13/travel/a-creative-renaissance-in-philadelphias-fishtown.html?_r=0"
     },
     {
@@ -105,13 +105,13 @@ $(document).ready(function() {
       dek: "What's in a name? For some Philadelphia neighborhoods, the answer is rich history. For other places, like West Philly's Overbrook, the answer is one of simple geography.",
       url: "http://www.newsworks.org/index.php/local/philadelphia/69357-the-often-proud-and-sometimes-weird-history-of-philadelphia-neighborhood-names-"
     },
-    {
-      hed: "Around Old Shibe Park, Ethnic Pockets Were United Into A Neighborhood By The Presence Of Baseball",
-      date: "Nov. 12, 1997",
-      by: "Philadelphia Inquirer, B.J. Kelley",
-      dek: "Even after the grand old ballpark was abandoned in 1970, even when it was destroyed by fire in 1971 and its charred shell became a breeding ground for crime and drugs, and even when it was razed in 1976 and would never again wear the noble and ancient dust of ball games, still the fans returned to the site each year to restoke their warm memories of Connie Mack Stadium, nee Shibe Park.",
-      url: "http://articles.philly.com/1997-11-12/news/25545472_1_ballpark-connie-mack-stadium-shibe-park"
-    },
+    // {
+    //   hed: "Around Old Shibe Park, Ethnic Pockets Were United Into A Neighborhood By The Presence Of Baseball",
+    //   date: "Nov. 12, 1997",
+    //   by: "Philadelphia Inquirer, B.J. Kelley",
+    //   dek: "Even after the grand old ballpark was abandoned in 1970, even when it was destroyed by fire in 1971 and its charred shell became a breeding ground for crime and drugs, and even when it was razed in 1976 and would never again wear the noble and ancient dust of ball games, still the fans returned to the site each year to restoke their warm memories of Connie Mack Stadium, nee Shibe Park.",
+    //   url: "http://articles.philly.com/1997-11-12/news/25545472_1_ballpark-connie-mack-stadium-shibe-park"
+    // },
     {
       hed: "Eagles End Suspense: They Will Remain in Philadelphia",
       date: "Dec. 16, 1984",
@@ -130,7 +130,7 @@ $(document).ready(function() {
       hed: "Friendly Canadian Hitchhiking Robot Decapitated While Visiting Philadelphia",
       date: "Aug. 3, 2015",
       by: "Slate, Lily Hay Newman",
-      dek: "HitchBot is a robot built for studying human interactions. It hitchhikes through different countries examining the goodwill of humans, and so far it has had successful trips around Canada, the Netherlands, and Germany. But it took only two weeks of traveling in the United States for something to go wrong.",
+      dek: "HitchBot is a robot built for studying human interactions.",
       url: "http://www.slate.com/blogs/future_tense/2015/08/03/hitchbot_went_on_a_hitchhiking_tour_but_was_destroyed_while_going_from_nyc.html"
     },
     {
@@ -153,6 +153,10 @@ $(document).ready(function() {
     var story = stories[Math.floor(Math.random() * stories.length)];
     $("#story").html('<p><p><strong>' + story.hed + '</strong></p><p><em>' + story.date + '</em> | <em>' + story.by + '</em></p><p>' + story.dek + '</p><p><a href="'+story.url + '" target="_blank">Read full story</a></p>');
     // $('<p>Check out this story.</p>').text("#story");
+  });
+
+  $("#hitme").click(function(event) {
+  event.preventDefault();
   });
 
 });
