@@ -147,6 +147,104 @@ $(document).ready(function() {
       dek: "Philly fans finally have a winning baseball team. Now they just need to stop hating themselves.",
       url: "http://www.slate.com/articles/sports/sports_nut/2008/10/philadelphia_vs_the_phillies.html"
     },
+    {
+      hed: "North Philly bookstore ships to prisons — and delivers with a personal touch",
+      date: "Oct. 26, 2015",
+      by: "PhillyVoice, Jake Blumgart",
+      dek: "Pass through the intersection of Broad and Erie in North Philadelphia and it's impossible to miss the city's last black-owned bookstore.",
+      url: "http://www.phillyvoice.com/jake-black-and-noble-bookstore/"
+    },
+    {
+      hed: "The Missing Namesake Of North Philly's Lost Necropolis",
+      date: "Oct. 21, 2014",
+      by: "Hidden City Philadelphia, Harry Kyriakodis",
+      dek: "The last memorial stones of Monument Cemetery, about two dozen grave markers, reveal themselves at low tide on the western bank of the Delaware River under the Betsy Ross Bridge, a strange and unnerving sight.",
+      url: "http://hiddencityphila.org/2014/10/the-missing-monument-cemetery/"
+    },
+    {
+      hed: "Burglars Who Took On F.B.I. Abandon Shadows",
+      date: "Jan. 7, 2014",
+      by: "New York Times, Mark Mazzetti",
+      dek: "The perfect crime is far easier to pull off when nobody is watching.",
+      url: "http://www.nytimes.com/2014/01/07/us/burglars-who-took-on-fbi-abandon-shadows.html?pagewanted=all"
+    },
+    {
+      hed: "Cops: Black and Blue",
+      date: "March 3, 2009",
+      by: "Temple University's Multimedia Urban Reporting Lab, Shannon McDonald",
+      dek: "Bill Thrasher is an officer in North Philadelphia's 22nd Police District. His blonde hair is youthful, unaltered by sun or life. His eyes are identical to the sky blue of the uniform shirt he wears beneath his jacket and bulletproof vest.",
+      url: "https://philadelphianeighborhoods.com/2009/03/01/cops-on-the-beat/"
+    },
+    {
+      hed: "Unsafe at Any Speed",
+      date: "Aug. 1, 2007",
+      by: "Philadelphia Weekly, Kia Gregory",
+      dek: "Another Lincoln Drive home receives an unwelcome vehicular visitor.",
+      url: "http://www.philadelphiaweekly.com/news-and-opinion/unsafe_at_any_speed-38459154.html"
+    },
+    {
+      hed: "Remains of the Day",
+      date: "April 2, 2003",
+      by: "Philadelphia Weekly, Brian Hickey",
+      dek: "It's been more than a month since Pete Kent's eviscerated body was found inside an abandoned North Philly row home. Police still don't know how he died, or why someone would take his vital organs. Neither do the people who love him.",
+      url: "http://www.philadelphiaweekly.com/news-and-opinion/cover-story/remains_of_the_day-38365939.html"
+    },
+    {
+      hed: "Gang Mentality",
+      date: "Dec. 16, 2004",
+      by: "Philadelphia City Paper, Doron Taussig",
+      dek: "It's almost time for dismissal at Martin Luther King High School. There's a rumor going around that somebody's going to get shot.",
+      url: "http://citypaper.net/articles/2004-12-16/cover.shtml"
+    },
+    {
+      hed: "Four Are Charged in Beating of Black Family",
+      date: "Sept. 27, 1994",
+      by: "Philadelphia Inquirer, Myrna Ludwig",
+      dek: "Four white people have been charged with breaking into the home of a deaf black woman and beating her and her teen-age son with aluminum bats in what the police here say was a racially motivated attack.",
+      url: "http://www.nytimes.com/1994/09/27/us/four-are-charged-in-beating-of-black-family.html"
+    },
+    {
+      hed: "A Born-Again Franklin Institute Banishes Stodginess",
+      date: "June 10, 1990",
+      by: "New York Times, Paul Goldberger",
+      dek: "The Transition is one of the most startling in Philadelphia: to go from the domed neo-classical hall of the original Franklin Institute to the vibrant atrium of the museum's just-opened Futures Center is not only to move from old to new but also from static to dynamic, from formal to relaxed, and from sumptuous to sleek.",
+      url: "http://www.nytimes.com/1990/06/10/arts/architecture-view-a-born-again-franklin-institute-banishes-stodginess.html"
+    },
+    {
+      hed: "He Works Magic At City Hall",
+      date: "April 27, 1992",
+      by: "Philadelphia Inquirer, Marc Duvoisin",
+      dek: "David L. Cohen, the mayor's chief of staff, is heading down a fourth-floor corridor in City Hall, returning to his office after a brief, hushed water-cooler confab with City Council President John F. Street, when someone calls his name.",
+      url: "http://articles.philly.com/1992-04-27/news/26005874_1_ed-rendell-political-hardball-city-hall"
+    },
+    {
+      hed: "The Trial Boils Down To Race",
+      date: "Feb. 4, 1995",
+      by: "Philadelphia Inquirer, Carol Morello",
+      dek: "The aging lion of Philadelphia defense attorneys watched the famous police chase up the San Diego Freeway last June with a cool, calculating eye honed by decades in the courtroom.",
+      url: "http://articles.philly.com/1995-02-04/news/25704169_1_charles-peruto-simpson-trial-black-jurors"
+    },
+    {
+      hed: "Mob's Depleted Roster: Softball Team Plays On Minus Key Members",
+      date: "April 21, 2000",
+      by: "Philadelphia Daily News, Kitty Caparella",
+      dek: "Mob softball is back under new management. At last night's opening game, team manager Anthony Borgesi pointed grandly to his new lineup on the softball field at Capitolo Playground, 10th and Wharton streets, in South Philadelphia.",
+      url: "http://articles.philly.com/2000-04-21/news/25590151_1_mob-boss-joseph-skinny-joey-merlino-softball"
+    },
+    {
+      hed: "How the bomb decision was made",
+      date: "May 17, 1985",
+      by: "Philadelphia Inquirer, Ron Wolf, William K. Marimow, Steve Lopez and John Woestendiek",
+      dek: "Although the bombing of a radical strongpoint by Philadelphia police caught the citizenry by surprise, contingency plans for it had been made weeks, even months, before. Here is a reconstruction of the events and decisions that led to that action.",
+      url: "http://mobile.philly.com/beta?wss=/philly/news&id=91713379"
+    },
+    {
+      hed: "The Wreck of Amtrak 188",
+      date: "Jan. 26, 2016",
+      by: "New York Times, Matthew Shaer",
+      dek: "What caused the worst American rail disaster in decades?",
+      url: "http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0"
+    }
   ];
 
   $("#hitme").click(function () {
