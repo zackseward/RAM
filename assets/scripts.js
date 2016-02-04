@@ -1,3 +1,17 @@
+// STORY SUBMISSION SHOUTOUTS!
+//
+// @nathanield & @cs_palmer (Feb. 3, 2016)
+//
+//  ___  _ _  ___  _  _  _  _
+// |_ _|| | |/ _ \| \| || |/ /
+//  | | |   ||   ||  ` ||   <
+//  |_| |_|_||_|_||_|\_||_|\_\
+//      _ _  ___  _ _   _
+//     | | |/   \| | | / \
+//     \   /| | || | | \_/
+//      |_| \___/\___/ (_)
+//
+
 $(document).ready(function() {
   var stories = [
     {
@@ -258,22 +272,3 @@ $(document).ready(function() {
   });
 
 });
-
-
-
-
-
-
-// PICKING ARTICLE RANDOMLY
-// bind a click handler to the button
-// generate a random number between 0 and 20 (minus 1)
-// use that number to grab an article out of that array
-//
-//
-// Store the story in a variable called story;
-// Make a string that looks like this:
-// <p>Check out "It's Not Chicago, Philadelphia Democrats Say of Their Primary" published on May 6, 1983</p>;
-// var markup = '<p>Check out "' + story.hed + '" published on ' + story.date + '</p>';
-//
-// Use jQuery to append markup into the DOM
-// You can put <br> and buttons in that string
