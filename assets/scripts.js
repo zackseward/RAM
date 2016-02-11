@@ -1,6 +1,7 @@
-// STORY SUBMISSION SHOUTOUTS!
+// STORY SUBMISSION SHOUTOUTS!!!
 //
 // @nathanield & @cs_palmer (Feb. 3, 2016)
+// @ajzaleski (Feb. 11, 2016)
 //
 //  ___  _ _  ___  _  _  _  _
 // |_ _|| | |/ _ \| \| || |/ /
