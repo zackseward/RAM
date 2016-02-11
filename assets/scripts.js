@@ -1,6 +1,7 @@
-// STORY SUBMISSION SHOUTOUTS!
+// STORY SUBMISSION SHOUTOUTS!!!
 //
 // @nathanield & @cs_palmer (Feb. 3, 2016)
+// @ajzaleski (Feb. 11, 2016)
 //
 //  ___  _ _  ___  _  _  _  _
 // |_ _|| | |/ _ \| \| || |/ /
@@ -258,6 +259,13 @@ $(document).ready(function() {
       by: "New York Times, Matthew Shaer",
       dek: "What caused the worst American rail disaster in decades?",
       url: "http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0"
+    },
+    {
+      hed: "A small group of amateur rocket scientists keep their fizzling hobby alive",
+      date: "Sept. 18, 2014",
+      by: "Philadelphia City Paper, Andrew Zaleski",
+      dek: "First you see the signs, yellow with bold, black lettering: 'Caution. Rocket launch in progress.'",
+      url: "http://citypaper.net/Cover/A-small-group-of-amateur-rocket-scientists-keep-their-fizzling-hobby-alive/"
     }
   ];
 
