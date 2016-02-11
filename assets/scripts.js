@@ -266,6 +266,13 @@ $(document).ready(function() {
       by: "Philadelphia City Paper, Andrew Zaleski",
       dek: "First you see the signs, yellow with bold, black lettering: 'Caution. Rocket launch in progress.'",
       url: "http://citypaper.net/Cover/A-small-group-of-amateur-rocket-scientists-keep-their-fizzling-hobby-alive/"
+    },
+    {
+      hed: "The Dead Girl in Chuck Peruto's Bathtub",
+      date: "Aug. 27, 2013",
+      by: "Philadelphia Magazine, Lisa DePaulo",
+      dek: "Julia Law was a pretty paralegal dating the city's most famous defense attorney. But the story of how she ended up dead in his house in May is one of secrets and lies.",
+      url: "http://www.phillymag.com/articles/dead-girl-chuck-peruto-julia-law-bathtub/"
     }
   ];
 
