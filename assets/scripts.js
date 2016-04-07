@@ -274,7 +274,7 @@ $(document).ready(function() {
       by: "Philadelphia Magazine, Lisa DePaulo",
       dek: "Julia Law was a pretty paralegal dating the city's most famous defense attorney. But the story of how she ended up dead in his house in May is one of secrets and lies.",
       url: "http://www.phillymag.com/articles/dead-girl-chuck-peruto-julia-law-bathtub/"
-    }
+    },
     {
       hed: "The Battle for the Soul of Washington Avenue",
       date: "Aug. 16, 2015",
