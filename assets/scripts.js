@@ -2,6 +2,7 @@
 //
 // @nathanield & @cs_palmer (Feb. 3, 2016)
 // @ajzaleski (Feb. 11, 2016)
+// @lizyoungphl (April 6, 2016)
 //
 //  ___  _ _  ___  _  _  _  _
 // |_ _|| | |/ _ \| \| || |/ /
@@ -259,7 +260,7 @@ $(document).ready(function() {
       by: "New York Times, Matthew Shaer",
       dek: "What caused the worst American rail disaster in decades?",
       url: "http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0"
-    },
+
     {
       hed: "A small group of amateur rocket scientists keep their fizzling hobby alive",
       date: "Sept. 18, 2014",
@@ -273,6 +274,13 @@ $(document).ready(function() {
       by: "Philadelphia Magazine, Lisa DePaulo",
       dek: "Julia Law was a pretty paralegal dating the city's most famous defense attorney. But the story of how she ended up dead in his house in May is one of secrets and lies.",
       url: "http://www.phillymag.com/articles/dead-girl-chuck-peruto-julia-law-bathtub/"
+    }
+    {
+      hed: "The Battle for the Soul of Washington Avenue",
+      date: "Aug. 16, 2015",
+      by: "Philadelphia Magazine, Holly Otterbein",
+      dek: "The chaotic but iconic South Philadelphia boulevard is on the cusp of enormous change. Can it evolve and stay weirdly wonderful?",
+      url: "http://www.phillymag.com/citified/2015/08/16/washington-avenue/"
     }
   ];
 
