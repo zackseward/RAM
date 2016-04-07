@@ -260,7 +260,7 @@ $(document).ready(function() {
       by: "New York Times, Matthew Shaer",
       dek: "What caused the worst American rail disaster in decades?",
       url: "http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0"
-
+    },
     {
       hed: "A small group of amateur rocket scientists keep their fizzling hobby alive",
       date: "Sept. 18, 2014",
@@ -281,7 +281,7 @@ $(document).ready(function() {
       by: "Philadelphia Magazine, Holly Otterbein",
       dek: "The chaotic but iconic South Philadelphia boulevard is on the cusp of enormous change. Can it evolve and stay weirdly wonderful?",
       url: "http://www.phillymag.com/citified/2015/08/16/washington-avenue/"
-    }
+    },
   ];
 
   $("#hitme").click(function () {
