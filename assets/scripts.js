@@ -282,6 +282,34 @@ $(document).ready(function() {
       dek: "The chaotic but iconic South Philadelphia boulevard is on the cusp of enormous change. Can it evolve and stay weirdly wonderful?",
       url: "http://www.phillymag.com/citified/2015/08/16/washington-avenue/"
     },
+    {
+      hed: "Disney to build Philadelphia theme park 'DisneyQuest' to be centerpiece of Market St. development",
+      date: "Dec. 10, 1998",
+      by: "Baltimore Sun, Edward Gunts",
+      dek: "The five-story, 80,000-square-foot project is a family oriented attraction that will use virtual reality and other cutting-edge technologies.",
+      url: "http://articles.baltimoresun.com/1998-12-10/business/1998344128_1_walt-disney-disney-regional-disneyquest"
+    },
+    {
+      hed: "Philadelphia newspaper columnist slain",
+      date: "Dec. 6, 1999",
+      by: "Associated Press, Meki Cox",
+      dek: "A Philadelphia Daily News columnist known for his hard-hitting commentaries on urban issues was stabbed to death outside a convenience store by a man demanding money, authorities said Sunday.",
+      url: "http://cjonline.com/stories/120699/new_columnist.shtml#.WKaX2xIrLq0"
+    },
+    {
+      hed: "Philadelphia's Financial Crisis Turns on Mayor",
+      date: "Sept. 25, 1990",
+      by: "New York Times, Michael deCourcy Hinds",
+      dek: "Mayor W. Wilson Goode, a sharecropper's son and self-made man, took office in 1984 amid high hopes that he would put the city on a sound financial footing and help ease the city's racial tensions.",
+      url: "http://www.nytimes.com/1990/09/25/us/philadelphia-s-financial-crisis-turns-on-mayor.html?pagewanted=all"
+    },
+    {
+      hed: "In Philadelphia, a Feel-Good Moment for Kobe Bryant, if a Brief One",
+      date: "Dec. 1, 2015",
+      by: "New York Times, Scott Cacciola",
+      dek: "Kobe Bryant was feeling nostalgic Monday night, so he drove around and visited some of his favorite childhood haunts, including the playgrounds where he honed his game. He recalled how he went scoreless one summer in the Sonny Hill League. He was 11 years old.",
+      url: "https://www.nytimes.com/2015/12/02/sports/basketball/a-strained-relationship-eases-between-kobe-bryant-and-philadelphia.html"
+    },
   ];
 
   $("#hitme").click(function () {
